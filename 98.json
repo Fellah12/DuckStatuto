@@ -1,0 +1,23 @@
+{
+  "name": "DuckStatuto #98",
+  "description": "Just Chilling",
+  "image": "/98.png",
+  "dna": "40d185bf94d35776f37c72b0df822fc9df9903f3",
+  "edition": 98,
+  "date": 1639088021440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Backgroundoriginal"
+    },
+    {
+      "trait_type": "Suit",
+      "value": "blacksuit"
+    },
+    {
+      "trait_type": "Accesories",
+      "value": "nothing"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
